@@ -4,8 +4,6 @@
 
 ![&#x6771;&#x4EAC;&#x90FD; &#x65B0;&#x578B;&#x30B3;&#x30ED;&#x30CA;&#x30A6;&#x30A4;&#x30EB;&#x30B9;&#x611F;&#x67D3;&#x75C7;&#x5BFE;&#x7B56;&#x30B5;&#x30A4;&#x30C8;](https://user-images.githubusercontent.com/1301149/75629392-1d19d900-5c25-11ea-843d-2d4376e3a560.png)
 
-#### 日本語 \| [English](https://github.com/1998code/tokyo-stopcovid19/blob/master/docs/en/README.md) \| [Español](https://github.com/1998code/tokyo-stopcovid19/blob/master/docs/es/README.md) \| [한국어](https://github.com/1998code/tokyo-stopcovid19/blob/master/docs/ko/README.md) \| [繁體中文](https://github.com/1998code/tokyo-stopcovid19/blob/master/docs/zh_TW/README.md) \| [简体中文](https://github.com/1998code/tokyo-stopcovid19/blob/master/docs/zh_CN/README.md) \| [Tiếng Việt](https://github.com/1998code/tokyo-stopcovid19/blob/master/docs/vi/README.md) \| [ภาษาไทย](https://github.com/1998code/tokyo-stopcovid19/blob/master/docs/th/README.md) \| [Français](https://github.com/1998code/tokyo-stopcovid19/blob/master/docs/fr/README.md)
-
 ## 貢献の仕方
 
 Issues にあるいろいろな修正にご協力いただけると嬉しいです。
